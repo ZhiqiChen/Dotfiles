@@ -5,8 +5,10 @@ Using the program "stow" we are able to use Configuration files here to auto put
 
 Layout for files are as follows:
 * non-linux files: ~/Dotfiles/
-* files for things in our home: ~/Dotfiles/[program Name]/
-* files for things in our .config: ~/Dotfiles/[program Name]/.config/
+* files for things in our home: ~/Dotfiles/{program Name}/
+* files for things in our .config: ~/Dotfiles/{program Name}/.config/
 
-## Command
-To use stow we use 'stow */' to stow all configuration for linux related configs
+## Commands
+* To use stow we use 'stow \*/' to stow all configuration for linux related configs
+* To make dirs for new folders use ```mkdir -p ~/Dotfiles/{program}/[.config/]```
+
