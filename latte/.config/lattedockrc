@@ -1,0 +1,52 @@
+[KFileDialog Settings]
+Recent Files[$e]=Edna.layout.latte,file:$HOME/Downloads/Edna.layout.latte
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+DisplayPort-0 DisplayPort-1 Height 1920x1080=453
+DisplayPort-0 DisplayPort-1 Width 1920x1080=429
+
+[LatteSettingsDialog]
+downloadWindowSize=980,600
+windowSize=1272,736
+
+[LatteSettingsDialog][DetailsDialog]
+windowSize=560,640
+
+[LatteSettingsDialog][TabLayouts]
+columnWidths=49,508,129,104
+sortColumn=3
+sortOrder=0
+
+[LatteSettingsDialog][ViewsDialog]
+columnWidths=59,256,142,135,131
+sortColumn=1
+sortOrder=0
+windowSize=980,649
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=DisplayPort-0:::0,0 1920x1080
+11=DisplayPort-1:::0,0 1920x1080
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=false
+contextMenuActionsAlwaysShown=_layouts,_preferences,_quit_latte,_separator1,_add_latte_widgets,_add_view
+inAdvancedModeForEditSettings=true
+inConfigureAppletsMode=false
+isAvailableGeometryBroadcastedToPlasma=true
+launchers=
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+parabolicSpread=3
+parabolicThicknessMarginInfluence=1
+screenTrackerInterval=2500
+showInfoWindow=true
+singleModeLayoutName=Edna - with no bottom panel
+userConfiguredAutostart=true
+version=2
