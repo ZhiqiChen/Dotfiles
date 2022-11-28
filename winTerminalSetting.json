@@ -38,7 +38,12 @@
         "defaults": 
         {
             "colorScheme": "nord",
-            "elevate": true
+            "cursorShape": "underscore",
+            "elevate": true,
+            "font": 
+            {
+                "face": "JetBrains Mono"
+            }
         },
         "list": 
         [
