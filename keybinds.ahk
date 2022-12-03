@@ -16,8 +16,9 @@ Capslock::Esc
 #!Numpad6::Media_Next
 
 #!Numpad5::Media_Play_Pause
-
-
+; -------KeyMaps--------
+!j::Down
+!k::Up
 #s::WinMinimize,A
 #w::WinMaximize,A
 
