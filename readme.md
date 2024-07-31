@@ -12,3 +12,10 @@ Layout for files are as follows:
 * To use stow we use `stow */` to stow all configuration for linux related configs
 * To make dirs for new folders use `mkdir -p ~/Dotfiles/{program}/[.config/]`
 
+
+
+# Programs to install for new installation
+## programs
+* firefox (bitwarden), spotify, joplin. basic programs
+* kde responsible for WM and desktop feel.
+* Neovim, zsh, oh-my-zsh, for konsole
